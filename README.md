@@ -8,12 +8,14 @@ To write a program to implement the simple linear regression model for predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
+~~~
 STEP 1:import the required libraries 
 STEP 2:import the csv file
 STEP 3:Declare X and y values with respect to the dataset
 STEP 4:plot the graph using matplotlib library
 STEP 5:print the plot
 STEP 6:End the program
+~~~
 
 ## Program:
 ```
